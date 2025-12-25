@@ -1,0 +1,8 @@
+{
+  "name": "pellal chat",
+  "description": "Plateforme vidéo sociale nouvelle génération avec analyse IA intégrée, monétisation et streaming en direct.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
